@@ -6,7 +6,7 @@
  * @width: matrix width
  * @height: matric height
  *
- * Return: matrix created pointer (success)
+ * Return: pointer to the created matrix (success)
  * or NULL (Error)
  */
 int **alloc_grid(int width, int height)
