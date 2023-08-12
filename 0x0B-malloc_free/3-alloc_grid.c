@@ -4,7 +4,7 @@
 /**
  * **alloc_grid - two dimensional of ints to be created
  * @width: matrix width
- * @height: matric height
+ * @height: matrix height
  *
  * Return: pointer to the created matrix (success)
  * or NULL (Error)
